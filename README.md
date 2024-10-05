@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeyanth
+ - 👋 Hi, I’m @Jeyanth
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning BE
 - 💞️ I’m looking to collaborate on new project 
